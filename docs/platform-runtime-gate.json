@@ -1,0 +1,13 @@
+{
+  "product": "physics-sandbox-sand-water-lab",
+  "title": "物理サンドボックス・砂水実験",
+  "domain": "Game",
+  "ideaNo": 4,
+  "platformType": "browser-web",
+  "expectedPublicTarget": "GitHub Pages / BOOTH",
+  "browser": {
+    "evidence": "dist/web-smoke-result.json"
+  },
+  "android": null,
+  "evidence": "dist/platform-runtime-gate-result.json"
+}
