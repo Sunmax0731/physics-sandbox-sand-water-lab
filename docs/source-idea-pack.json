@@ -1,0 +1,38 @@
+{
+  "product": "physics-sandbox-sand-water-lab",
+  "sourceRank": {
+    "rank": 45,
+    "tier": "P2",
+    "score": 57,
+    "domain": "Game",
+    "ideaNo": 4,
+    "ideaName": "物理サンドボックス・砂水実験",
+    "repositoryName": "physics-sandbox-sand-water-lab",
+    "publicTarget": "GitHub Pages / BOOTH",
+    "priorityReason": "元100件下位候補。デモ映えはするが、ゲーム目的を足す必要がある。"
+  },
+  "initialRepositoryReadme": "not-found-at-start",
+  "exactCreatedIdeaPath": "D:\\AI\\Game\\created_idea_004_physics-sandbox-sand-water-lab",
+  "exactZipPath": "D:\\AI\\Game\\created_idea_004_physics-sandbox-sand-water-lab\\idea_004_physics-sandbox-sand-water-lab.zip",
+  "exactCreatedIdeaPathExists": true,
+  "exactZipExists": true,
+  "fallbackSearchUsed": false,
+  "fallbackSearchResults": [],
+  "zipEntriesChecked": [
+    "metadata.json",
+    "START_PROMPT.md",
+    "README.md",
+    "01_REQUIREMENTS.md",
+    "03_DESIGN.md",
+    "04_IMPLEMENTATION_PLAN.md",
+    "05_TEST_PLAN.md",
+    "06_RELEASE_CHECKLIST.md",
+    "02_SPECIFICATION.md"
+  ],
+  "expectedZipEntriesPresent": true,
+  "metadataRepositoryName": "physics-sandbox-sand-water-lab",
+  "metadataIdea": "物理サンドボックス・砂水実験",
+  "metadataMatchesRepository": true,
+  "markdownCopyPolicy": "Formal docs are regenerated in normal Japanese from NON_PICKUP row, metadata, and domain docs. ZIP markdown is checked but not copied verbatim.",
+  "mojibakePolicy": "Generated docs are checked by code point based scanner."
+}
